@@ -48,8 +48,6 @@ Este projeto foi desenvolvido integralmente de forma manual como parte da discip
 
 ## 🚧 Próximas Implementações
 - [ ] Painel de Administração para inserção de novos ativos.
-- [ ] Sistema de autenticação para utilizadores autorizados.
-- [ ] Exportação de relatórios em PDF.
 - [ ] Histórico de manutenções técnicas.
 
 ---

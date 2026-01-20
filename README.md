@@ -41,7 +41,7 @@ O projeto foi desenvolvido seguindo uma estrutura modular para facilitar a manut
 ## ✍️ Desenvolvimento
 Este projeto foi desenvolvido integralmente de forma manual como parte da disciplina de **Programação de Sistemas de Informação**. 
 
-- **Sem IA:** Todo o código e lógica de base de dados foram escritos manualmente.
+- **Com AI** A parte do visual do trabalho foi feito por uma IA.
 - **Foco em UX:** A interface foi desenhada para ser intuitiva, utilizando transições suaves e um layout responsivo.
 
 ---

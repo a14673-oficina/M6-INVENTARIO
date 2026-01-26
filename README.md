@@ -55,3 +55,6 @@ Este projeto foi desenvolvido integralmente de forma manual como parte da discip
 ## 👤 Identificação
 - **Disciplina:** REDES – M6 – Programação de Sistemas de Informação
  **Nome** Daniel - 14673 - 2I
+
+## URL/Site
+- **Ligação:** https://a14673-oficina.infinityfree.me/M6/inventario/?i=1

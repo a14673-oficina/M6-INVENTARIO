@@ -108,5 +108,4 @@ A IA (Manus) serviu como um consultor técnico. O processo envolveu pedir sugest
 ---
 
 ## 🔗 Links do Projeto
-- **Repositório GitHub:** [github.com/Daniel-14673/Inventario-M6](https://github.com/Daniel-14673/Inventario-M6)
 - **Site Online:** [Inventário - Versão Beta](https://a14673-oficina.infinityfree.me/M6/inventario/?i=1)
